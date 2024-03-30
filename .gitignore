@@ -1,3 +1,7 @@
 *.csv
 __pycache__
+wandb/*
+*.joblib
+*.h5
+
 
