@@ -3,5 +3,8 @@ __pycache__
 wandb/*
 *.joblib
 *.h5
+*.keras
+train_backupds/*
+
 
 
